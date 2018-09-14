@@ -24,9 +24,9 @@
 /wd4838
 /we4668
 /I .
-/I E:\Projects\UE4\BeatVirus\BeatVirus\Intermediate\Build\Win64\UE4Editor\Inc\BeatVirus
-/I E:\Projects\UE4\BeatVirus\BeatVirus\Source
-/I E:\Projects\UE4\BeatVirus\BeatVirus\Source\BeatVirus
+/I D:\ProjectsUE4\BeatVirus\BeatVirus\Intermediate\Build\Win64\UE4Editor\Inc\BeatVirus
+/I D:\ProjectsUE4\BeatVirus\BeatVirus\Source
+/I D:\ProjectsUE4\BeatVirus\BeatVirus\Source\BeatVirus
 /I Runtime
 /I Runtime\Core\Public
 /I Runtime\Core
@@ -404,18 +404,18 @@
 /I ThirdParty
 /I ThirdParty\libSampleRate\Public
 /I ThirdParty\libSampleRate
-/I "D:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.14.26428\INCLUDE"
-/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"
+/I "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\INCLUDE"
+/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6\include\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt"
-/FI"E:\Projects\UE4\BeatVirus\BeatVirus\Intermediate\Build\Win64\BeatVirusEditor\Development\Engine\SharedPCH.Engine.h"
-/Yu"E:\Projects\UE4\BeatVirus\BeatVirus\Intermediate\Build\Win64\BeatVirusEditor\Development\Engine\SharedPCH.Engine.h"
-/Fp"E:\Projects\UE4\BeatVirus\BeatVirus\Intermediate\Build\Win64\BeatVirusEditor\Development\Engine\SharedPCH.Engine.h.pch"
-"E:\Projects\UE4\BeatVirus\BeatVirus\Source\BeatVirus\BeatVirus.cpp"
-/FI"E:\Projects\UE4\BeatVirus\BeatVirus\Intermediate\Build\Win64\UE4Editor\Development\BeatVirus\Definitions.BeatVirus.h"
-/Fo"E:\Projects\UE4\BeatVirus\BeatVirus\Intermediate\Build\Win64\UE4Editor\Development\BeatVirus\BeatVirus.cpp.obj"
+/FI"D:\ProjectsUE4\BeatVirus\BeatVirus\Intermediate\Build\Win64\BeatVirusEditor\Development\Engine\SharedPCH.Engine.h"
+/Yu"D:\ProjectsUE4\BeatVirus\BeatVirus\Intermediate\Build\Win64\BeatVirusEditor\Development\Engine\SharedPCH.Engine.h"
+/Fp"D:\ProjectsUE4\BeatVirus\BeatVirus\Intermediate\Build\Win64\BeatVirusEditor\Development\Engine\SharedPCH.Engine.h.pch"
+"D:\ProjectsUE4\BeatVirus\BeatVirus\Source\BeatVirus\BeatVirus.cpp"
+/FI"D:\ProjectsUE4\BeatVirus\BeatVirus\Intermediate\Build\Win64\UE4Editor\Development\BeatVirus\Definitions.BeatVirus.h"
+/Fo"D:\ProjectsUE4\BeatVirus\BeatVirus\Intermediate\Build\Win64\UE4Editor\Development\BeatVirus\BeatVirus.cpp.obj"
 /TP
 /GR-
 /W4

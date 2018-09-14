@@ -1,0 +1,1 @@
+../../../BeatVirus/BeatVirus.uproject  /Game/Maps/PlayerTest -Messaging -SessionId=03B85AA5469DB4884C6EF0BF7CDAC008 -SessionOwner="pears" -SessionName="Launch On Device" -iterative

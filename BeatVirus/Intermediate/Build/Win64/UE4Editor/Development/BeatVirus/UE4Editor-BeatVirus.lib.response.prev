@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-BeatVirus.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Projects\UE4\BeatVirus\BeatVirus\Intermediate\Build\Win64\BeatVirusEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"E:\Projects\UE4\BeatVirus\BeatVirus\Intermediate\Build\Win64\UE4Editor\Development\BeatVirus\BeatVirus.cpp.obj"
+"E:\Projects\UE4\BeatVirus\BeatVirus\Intermediate\Build\Win64\UE4Editor\Development\BeatVirus\BeatVirusGameModeBase.cpp.obj"
+"E:\Projects\UE4\BeatVirus\BeatVirus\Intermediate\Build\Win64\UE4Editor\Development\BeatVirus\BeatVirus.init.gen.cpp.obj"
+"E:\Projects\UE4\BeatVirus\BeatVirus\Intermediate\Build\Win64\UE4Editor\Development\BeatVirus\BeatVirusGameModeBase.gen.cpp.obj"
+"E:\Projects\UE4\BeatVirus\BeatVirus\Intermediate\Build\Win64\UE4Editor\Development\BeatVirus\PCLaunch.rc.res"
+/OUT:"E:\Projects\UE4\BeatVirus\BeatVirus\Intermediate\Build\Win64\UE4Editor\Development\BeatVirus\UE4Editor-BeatVirus.lib"

@@ -4,7 +4,7 @@
 	<ItemGroup>
 		<None Include="..\..\BeatVirus.uproject" />
 		<Filter Include="Source">
-			<UniqueIdentifier>{3EDC2841-9697-4205-8A0A-CAFC3EAA2E69}</UniqueIdentifier>
+			<UniqueIdentifier>{55A0AB98-508F-4B3D-804F-429AB212B3EB}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\BeatVirus.Target.cs">
 			<Filter>Source</Filter>
@@ -13,7 +13,7 @@
 			<Filter>Source</Filter>
 		</None >
 		<Filter Include="Config">
-			<UniqueIdentifier>{119ABD26-4CAA-439A-AEDC-EB69471394C6}</UniqueIdentifier>
+			<UniqueIdentifier>{236E4B8A-B2B9-46A8-8608-F3CECCA81CEA}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Config\DefaultEditor.ini">
 			<Filter>Config</Filter>
@@ -25,7 +25,7 @@
 			<Filter>Config</Filter>
 		</None >
 		<Filter Include="Source\BeatVirus">
-			<UniqueIdentifier>{BED4D43A-DAFB-4969-B055-412D8016EDF0}</UniqueIdentifier>
+			<UniqueIdentifier>{253451C7-045F-4A35-9928-F052C58B68B4}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\BeatVirus\BeatVirus.Build.cs">
 			<Filter>Source\BeatVirus</Filter>
